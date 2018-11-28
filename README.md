@@ -8,7 +8,11 @@
 中国居民请自觉关闭本项目并24小时之内删掉与本项目相关的一切内容，否则出现一切问题，项目作者概不负责
 </p>
 <hr>
-
+   
+   
+   
+   
+   
 
 
 # v2ray 部署在 openshift starter
@@ -16,6 +20,8 @@
 项目，然后照着这个视频 https://youtu.be/gImm4CfAnRs 自行部署镜像！ 2018/09/26
 
 （fork于wangyi2005/v2ray修改前）
+
+
 
 环境变量： CONFIG_JSON（配置）、
 
